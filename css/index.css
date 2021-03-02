@@ -60,14 +60,14 @@ body{
 
 .album1{
     float: left;
-    padding-bottom: 1vw;
-    margin-bottom: 1vw;
+    padding-bottom: 5vh;
+    margin-bottom: 5vh;
 }
 
 .album2{
     float: right;
-    padding-bottom: 2vh;
-    margin-bottom: 2vh; 
+    padding-bottom: 5vh;
+    margin-bottom: 5vh; 
 }
 
 footer{
