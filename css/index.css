@@ -63,9 +63,9 @@ body{
     margin-right:1vw;
 }
 
-album.clear {
-    clear: both;
-  }
+.clear{
+    clear:both;
+}
 
 footer{
     position: fixed;
