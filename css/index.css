@@ -63,6 +63,10 @@ body{
     margin-right:1vw;
 }
 
+album.clear {
+    clear: both;
+  }
+
 footer{
     position: fixed;
     left: 0;
