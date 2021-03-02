@@ -60,10 +60,12 @@ body{
 
 .album1{
     float: left;
+    display: inline-block;
 }
 
 .album2{
     float: right;
+    display: inline-block;
 }
 
 footer{
