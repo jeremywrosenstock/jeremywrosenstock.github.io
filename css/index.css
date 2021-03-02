@@ -60,7 +60,7 @@ body{
 
 .albums{
     float:left;
-    margin-right:1vw;
+    margin-right:0.5vw;
     clear: both;
 }
 
