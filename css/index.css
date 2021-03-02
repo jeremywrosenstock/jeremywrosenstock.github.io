@@ -58,6 +58,11 @@ body{
     padding-bottom: 2px; 
 }
 
+.box{
+    float:left;
+    margin-right:20px;
+}
+
 footer{
     position: fixed;
     left: 0;
