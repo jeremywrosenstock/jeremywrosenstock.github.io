@@ -50,7 +50,6 @@ body{
     background-image: url("../images/coverpic_larger.jpg");  
     padding: 15%; 
     font-family: 'Times New Roman', Times, serif; 
-    overflow: scroll;
 }
 
 .soundcloud{
