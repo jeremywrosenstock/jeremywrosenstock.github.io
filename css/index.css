@@ -58,8 +58,12 @@ body{
     padding-bottom: 2px; 
 }
 
-.albums{
-    float:left;
+.album1{
+    float: left;
+}
+
+.album2{
+    float: right;
 }
 
 footer{
