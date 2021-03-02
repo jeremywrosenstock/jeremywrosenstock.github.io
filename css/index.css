@@ -58,13 +58,9 @@ body{
     padding-bottom: 2px; 
 }
 
-.box{
+.album{
     float:left;
-    margin-right:20px;
-}
-
-.clear{
-    clear:both;
+    margin-right:1vw;
 }
 
 footer{
