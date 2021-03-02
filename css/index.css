@@ -61,6 +61,7 @@ body{
 .albums{
     float:left;
     margin-right:1vw;
+    clear: both;
 }
 
 footer{
