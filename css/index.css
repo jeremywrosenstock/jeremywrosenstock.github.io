@@ -60,13 +60,13 @@ body{
 
 .album1{
     float: left;
-    padding-bottom: 5vh;
+    padding-bottom: 2.5vh;
     margin-bottom: 20%;
 }
 
 .album2{
     float: right;
-    padding-bottom: 5vh;
+    padding-bottom: 2.5vh;
     margin-bottom: 20%; 
 }
 
