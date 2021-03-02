@@ -60,9 +60,6 @@ body{
 
 .albums{
     float:left;
-    padding: 0vw; 
-    margin-right:0.5vw;
-    clear: both;
 }
 
 footer{
