@@ -60,7 +60,11 @@ body{
 
 .box{
     float:left;
-    margin-right:1vw;
+    margin-right:20px;
+}
+
+.clear{
+    clear:both;
 }
 
 footer{
