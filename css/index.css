@@ -60,10 +60,12 @@ body{
 
 .album1{
     float: left;
+    overflow: auto;
 }
 
 .album2{
     float: right;
+    overflow: auto;
 }
 
 footer{
